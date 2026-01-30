@@ -1,5 +1,8 @@
 # Senior Frontend Engineer
 
+- Email: [kevin@kevinallen.codes](mailto:kevin@kevinallen.codes)
+- Phone: +1 (850) 715 1727
+
 Welcome to my GitHub profile! I’m a highly experienced Senior Frontend Engineer with a deep passion for building scalable, user-centric web applications. I specialize in designing and implementing modern, responsive, and high-performance frontend solutions. With over 10 years in the field, I’m skilled in taking complex requirements and transforming them into clean, maintainable, and efficient code. 
 
 ## 🔧 Key Technical Skills
