@@ -1,38 +1,82 @@
-# Senior Frontend Engineer
+# 👋 Hi, I’m Kevin Allen
 
-- Email: [kevin@kevinallen.codes](mailto:kevin@kevinallen.codes)
-- Phone: +1 (850) 715 1727
+**Senior Frontend Engineer** with **10+ years of experience** building, scaling, and operating high-performance web applications across startup and enterprise environments.
 
-Welcome to my GitHub profile! I’m a highly experienced Senior Frontend Engineer with a deep passion for building scalable, user-centric web applications. I specialize in designing and implementing modern, responsive, and high-performance frontend solutions. With over 10 years in the field, I’m skilled in taking complex requirements and transforming them into clean, maintainable, and efficient code. 
+I specialize in **React, TypeScript, and modern frontend architecture**, with a strong focus on **performance, accessibility, design systems, and developer experience**. I enjoy owning frontend platforms end-to-end, collaborating cross-functionally, and mentoring engineers while delivering measurable product impact.
 
-## 🔧 Key Technical Skills
+---
 
-### Core Technologies
-- **React.js**: Building dynamic and highly interactive user interfaces with hooks, context API, and class-based components.
-- **Next.js**: Full-stack applications with SSR, SSG, and API routes to ensure fast, scalable, and SEO-friendly applications.
-- **Vue 3**: Leveraging the Composition API and Vuex for scalable state management and high-performance applications.
-- **Tailwind CSS**: Utility-first CSS framework for rapid UI development and high customization.
-- **TypeScript**: Ensuring type safety and enhancing the maintainability of large-scale applications.
-- **GraphQL**: Building efficient and flexible data-fetching strategies using GraphQL queries and mutations.
-- **JavaScript (ES6+)**: Expert-level proficiency in modern JavaScript features such as async/await, destructuring, arrow functions, and modules.
+## 🧠 What I Focus On
 
-### Advanced Frontend Tools
-- **Redux, Zustand, Recoil**: State management libraries for seamless state synchronization in complex applications.
-- **Jest, Mocha, Cypress**: Comprehensive testing strategies for unit, integration, and end-to-end testing of frontend components.
-- **Webpack, Vite**: Optimizing frontend build pipelines for faster development and production deployments.
-- **Babel**: Transpiling modern JavaScript code to ensure compatibility across browsers.
-- **Sass/SCSS**: Modular and scalable CSS architectures to create maintainable and extensible stylesheets.
+- **Frontend Architecture & Platform Design**
+  - Component architecture, state ownership, and long-term evolution  
+  - Design systems and shared UI foundations
+- **Performance & Reliability**
+  - Bundle splitting, memoization, lazy loading, render optimization  
+  - Reducing re-renders and improving real-world load times
+- **Accessibility & UX Quality**
+  - WCAG compliance, responsive design, inclusive UI patterns
+- **Engineering Excellence**
+  - Testing strategy, CI/CD, code quality standards  
+  - Mentorship, architecture reviews, and cross-team alignment
 
-### UX/UI & Design Tools
-- **Figma, Adobe XD**: Collaborating with designers to bring polished and intuitive user interfaces to life.
-- **Material-UI, Ant Design**: Leveraging popular component libraries for rapid prototyping and consistent design systems.
-- **Responsive Web Design**: Ensuring that applications are optimized for all screen sizes and devices, following mobile-first design principles.
-- **UX/UI Testing**: Analyzing usability and performing user testing to iterate on design and functionality.
+---
 
-### DevOps & Continuous Integration
-- **Git, GitHub Actions**: Version control and automated deployment pipelines for seamless collaboration and continuous integration.
-- **Docker, Kubernetes**: Containerizing and deploying applications for greater scalability and easier management.
-- **CI/CD Pipelines**: Automating frontend build and test processes to ensure code quality and quick delivery cycles.
+## 🛠 Tech Stack
 
-## 🌱 Continuous Learning
-As a Senior Frontend Engineer, I am always learning new techniques, libraries, and tools to stay on top of the ever-evolving web development landscape. Currently, I am focused on optimizing frontend performance, advanced state management solutions, and enhancing accessibility across web applications.
+### Frontend
+- React, TypeScript, Next.js  
+- AngularJS (legacy → modern migrations)  
+- HTML5, CSS3, Tailwind CSS  
+
+### State & Data
+- Redux Toolkit, React Query  
+- REST APIs, GraphQL  
+
+### Backend & Cloud
+- Node.js, Express.js  
+- Google Cloud Platform, AWS, Azure, Firebase  
+
+### Testing & Tooling
+- Jest, React Testing Library, Cypress  
+- Vite, Webpack, CI/CD pipelines  
+- Performance profiling & accessibility audits  
+
+---
+
+## 💼 Experience Snapshot
+
+### **Senior Frontend Engineer**  
+**Summit Technology Services** (2023 – Present)
+- Owned frontend architecture for an enterprise React platform with **100K+ active users**
+- Reduced initial load time by **28%** and unnecessary re-renders by **35%**
+- Modernized legacy UI into accessible, composable React components
+- Established CI/CD pipelines and frontend quality standards
+- Mentored engineers and partnered closely with product, design, and backend teams
+
+### **Web Developer**  
+**All IT Solutions** (2020 – 2023)
+- Built a modular React + TypeScript design system (20+ reusable components)
+- Migrated legacy jQuery pages to React (**~30% performance improvement**)
+- Developed and deployed Express.js APIs on GCP with **99%+ uptime**
+
+### **Frontend Developer**  
+**Phase Consulting Partners** (2017 – 2020)
+- Built production AngularJS apps for **1M+ monthly users**
+- Created shared UI patterns used across **6+ teams**
+- Delivered consistently in Agile/Scrum environments
+
+---
+
+## 🎓 Education
+
+**B.S. in Computer Science**  
+University of Florida — Gainesville, FL
+
+---
+
+## 📫 Let’s Connect
+
+- 📍 Miami Beach, FL (Remote-friendly)
+- 💼 LinkedIn: https://www.linkedin.com/kevin-allen-eng126
+- 📧 kevin.allen.engineer@gmail.com
